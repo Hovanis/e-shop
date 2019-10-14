@@ -1,0 +1,47 @@
+[
+    {
+        "id_product": 101,
+        "product_name": "Notebook",
+        "price": 1900
+    },
+    {
+        "id_product": 102,
+        "product_name": "Mouse",
+        "price": 20
+    },
+    {
+        "id_product": 103,
+        "product_name": "Keyboard",
+        "price": 50
+    },
+    {
+        "id_product": 104,
+        "product_name": "Gamepad",
+        "price": 75
+    },
+    {
+        "id_product": 105,
+        "product_name": "Product5",
+        "price": 35
+    },
+    {
+        "id_product": 106,
+        "product_name": "Product6",
+        "price": 70
+    },
+    {
+        "id_product": 107,
+        "product_name": "Product7",
+        "price": 450
+    },
+    {
+        "id_product": 108,
+        "product_name": "Product8",
+        "price": 67
+    },
+    {
+        "id_product": 109,
+        "product_name": "Product9",
+        "price": 23
+    }
+]

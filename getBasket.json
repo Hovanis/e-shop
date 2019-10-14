@@ -1,0 +1,18 @@
+{
+  "amount": 0,
+  "countGoods": 0,
+  "contents": [
+    {
+      "id_product": 101,
+      "product_name": "Notebook",
+      "price": 1900,
+      "quantity": 1
+    },
+    {
+      "id_product": 102,
+      "product_name": "Mouse",
+      "price": 20,
+      "quantity": 1
+    }
+  ]
+}
